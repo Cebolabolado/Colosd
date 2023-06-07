@@ -1,0 +1,72 @@
+body{ 
+    background-image: url(deserto.jpg);
+    background-size: 100%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+
+      *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 40px;
+    }
+    
+
+     
+    #cabecalho{
+        height: 400px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-color:  #a61c22;
+        
+ }
+ 
+ 
+ 
+ #subcabecalho{
+     height: 400px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-color: #b85b2e;
+ }
+     
+     
+     
+ 
+#principal{
+    height: 400px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-color:  #ff2bf1;
+}
+
+
+
+
+#notícias{
+    height: 400px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-color:  #3d8bb8
+}
+
+
+
+
+
+
+ #footer{
+       height: 400px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 0px;
+        background-color:  #4ab83d;
+ }
